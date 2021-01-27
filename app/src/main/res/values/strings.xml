@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Make It Rain</string>
+
+
+    <string name="degree">&#xb0;C</string>
+
+    <string name="humidity">Humidity</string>
+    <string name="windspeed">Wind speed</string>
+    <string name="minmaxtemp">Min - Max &#xb0;C</string>
+</resources>
